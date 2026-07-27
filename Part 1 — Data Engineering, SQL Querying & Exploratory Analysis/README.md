@@ -261,7 +261,7 @@ Used to:
 
 * Understand the assignment requirements.
 * Clarify Python, Pandas, SQL, and scikit-learn syntax.
-* Understand and resolve coding errors.
+* Understand and coding errors.
 * Improve the structure, grammar, and formatting of the project documentation and README.
 
 ### Google Search
