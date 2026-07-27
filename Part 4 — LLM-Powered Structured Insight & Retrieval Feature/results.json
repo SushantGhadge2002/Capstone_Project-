@@ -1,0 +1,107 @@
+[
+    {
+        "risk_level": "Medium",
+        "primary_symptom": "Severe chest pain and shortness of breath during exercise",
+        "urgency": "High",
+        "summary": "The patient presents with severe symptoms indicating a potential cardiac issue. Urgent medical attention is required.",
+        "id": 1
+    },
+    {
+        "risk_level": "Medium",
+        "primary_symptom": "Dizziness",
+        "urgency": "Medium",
+        "summary": "The patient has high blood pressure and elevated cholesterol, which may lead to cardiovascular issues. They also experience occasional dizziness.",
+        "id": 2
+    },
+    {
+        "risk_level": "Medium",
+        "primary_symptom": "Mild chest discomfort during activity",
+        "urgency": "Medium",
+        "summary": "The patient presents with mild chest discomfort, which is a common symptom of angina. The risk level is considered medium due to the presence of symptoms during physical exertion. Urgent medical attention may be required if the symptoms worsen or persist.",
+        "id": 3
+    },
+    {
+        "risk_level": "Medium",
+        "primary_symptom": "Fatigue and Irregular Heartbeat",
+        "urgency": "Medium",
+        "summary": "The patient is experiencing symptoms that suggest a moderate risk of underlying heart conditions. Further evaluation by a healthcare professional is recommended to rule out or confirm any potential cardiac issues.",
+        "id": 4
+    },
+    {
+        "risk_level": "Medium",
+        "primary_symptom": "Chest Pain",
+        "urgency": "High",
+        "summary": "The patient is experiencing chest pain which may indicate a heart condition. The presence of diabetes and abnormal ECG findings further increases the risk level.",
+        "id": 5
+    },
+    {
+        "risk_level": "Medium",
+        "primary_symptom": "Persistent high blood pressure",
+        "urgency": "Medium",
+        "summary": "The patient reports persistent high blood pressure, which is a significant cardiovascular risk factor. No chest pain is reported.",
+        "id": 6
+    },
+    {
+        "risk_level": "Medium",
+        "primary_symptom": "Shortness of breath during daily activities",
+        "urgency": "Medium",
+        "summary": "The patient is experiencing moderate symptoms that require medical attention.",
+        "id": 7
+    },
+    {
+        "risk_level": "Low",
+        "primary_symptom": "",
+        "urgency": "Low",
+        "summary": "The patient has normal ECG results and no significant cardiac symptoms.",
+        "id": 8
+    },
+    {
+        "risk_level": "Medium",
+        "primary_symptom": "Chest Pain",
+        "urgency": "High",
+        "summary": "A 60-year-old male presents with chest pain that is radiating to the left arm and accompanied by sweating. This could be indicative of a myocardial infarction, which requires immediate medical attention.",
+        "id": 9
+    },
+    {
+        "risk_level": "Medium",
+        "primary_symptom": "Dizziness, Fatigue",
+        "urgency": "Medium",
+        "summary": "The patient reports occasional dizziness and mild fatigue after walking. This could be indicative of a cardiovascular issue or other underlying health condition that requires further evaluation.",
+        "id": 10
+    },
+    {
+        "risk_level": "Medium",
+        "primary_symptom": "Palpitations and shortness of breath during exercise",
+        "urgency": "Medium",
+        "summary": "The patient presents with palpitations and shortness of breath, which may indicate a cardiac condition. Further evaluation is recommended to determine the underlying cause.",
+        "id": 11
+    },
+    {
+        "risk_level": "Low",
+        "primary_symptom": "",
+        "urgency": "Low",
+        "summary": "The patient has elevated cholesterol, which is a risk factor for cardiovascular disease. No current symptoms indicate a high urgency.",
+        "id": 12
+    },
+    {
+        "risk_level": "Medium",
+        "primary_symptom": "Severe chest pain even while resting",
+        "urgency": "High",
+        "summary": "The patient presents with severe chest pain, which is concerning and warrants immediate attention.",
+        "id": 13
+    },
+    {
+        "risk_level": "Low",
+        "primary_symptom": "Mild Chest Discomfort",
+        "urgency": "Medium",
+        "summary": "The patient reports mild chest discomfort, which is considered a primary symptom. There is no mention of abnormal blood pressure, so the risk level is low. However, due to the presence of chest discomfort, it's recommended to monitor for any changes in symptoms and seek medical attention if they worsen.",
+        "id": 14
+    },
+    {
+        "risk_level": "Medium",
+        "primary_symptom": "Fatigue, dizziness, abnormal stress test results",
+        "urgency": "Medium",
+        "summary": "The patient presents with symptoms of fatigue and dizziness, which may indicate underlying cardiovascular issues. Abnormal stress test results suggest potential cardiac involvement. Further evaluation is recommended to assess risk and urgency.",
+        "id": 15
+    }
+]
